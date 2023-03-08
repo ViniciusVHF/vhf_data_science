@@ -20,6 +20,4 @@ Experiência como técnico em manutenção elétrica, formado em engenharia elé
 
 
 ## Projetos:
-ddd
 ---
-
